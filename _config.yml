@@ -21,25 +21,15 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
-    - name: WeChat
-      value: YourWeChatUsername
-      link: "#"
+      value: harekrishnasn@gmail.com
+      link: mailto:harekrishnasn@gmail.com
+
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
     - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.facebook.com/profile.php?id=100008707202396
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Weibo
-      link: http://weibo.com/u/YourWeiboUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/shivnp
+
 
 # Build settings
 markdown: kramdown
