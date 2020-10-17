@@ -4,7 +4,7 @@
 title: Shiv Narayan Pandey
 description: >- # this means to ignore newlines until "baseurl:"
   Guiding the students in their studies as well as towards spritiual platform also.
-baseurl: # the subpath of the site
+baseurl: "/ " # the subpath of the site
 url: "https://shivnp.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
